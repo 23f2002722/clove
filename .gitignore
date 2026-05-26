@@ -1,0 +1,8 @@
+# Ignore virtual environment
+venv/
+
+# Ignore everything inside the images directory
+static/images/*
+
+# Ignore saved encodings
+*.pkl
